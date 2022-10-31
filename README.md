@@ -1,6 +1,6 @@
 # StableDiffusion-GrasshopperCLOUD
 A Grasshopper client for the stable-diffusion model hosted by replicate.com, with support for img2img and image in-painting. This implementation allows getting started with grasshopper and stable-diffusion
-hassle-free. No local installations are required. However, you will need an account at replicate.com + incl. billing infomration as they host and run the model on their hardware.
+hassle-free. No local installations are required. However, you will need an account at replicate.com + incl. billing infomration as they host and run the model on their hardware. In average one prediction (image) will roughly cost one cent (€).
 
 
 ![Untitled](https://github.com/SerjoschDuering/Grasshopper-StableDiffusion/raw/main/images/Untitled.png)
