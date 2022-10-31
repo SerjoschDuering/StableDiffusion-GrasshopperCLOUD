@@ -8,7 +8,7 @@ hassle-free. No local installations are required. However, you will need an acco
 
 ## Prerequisites
 
-1) Create an Account at replicate.com 
+1) Create an Account at replicate.com and get your personal authentification token
 
 2) Grasshopper Plugins
 
