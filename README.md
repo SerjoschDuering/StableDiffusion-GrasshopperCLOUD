@@ -14,9 +14,8 @@ hassle-free. No local installations are required. However, you will need an acco
 
 In order to use this client with an Interface you need the plugin:
 - [HumanUI](https://www.food4rhino.com/en/app/human-ui)
-optional:
-- [Aviary](https://www.food4rhino.com/en/app/aviary)
-- [Hops](https://developer.rhino3d.com/guides/compute/hops-component/)
+- optional: [Aviary](https://www.food4rhino.com/en/app/aviary)
+- optional: [Hops](https://developer.rhino3d.com/guides/compute/hops-component/)
 
 
 ## Set-up
